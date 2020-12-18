@@ -32,12 +32,6 @@
   <a href="https://www.npmjs.com/" title="Node Package Manager">
     <img src="https://clipground.com/images/npm-logo-png-6.png" alt="npm" width="40" height="40"/>
   </a>
-  <a href="https://cloudflare.org" title="Cloudflare">
-    <img src="https://www.cloudflare.com/img/cf-facebook-card.png" alt="cloudflare" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40">
-  </a>
  </p>
  
  <h1>GitHub Activity</h1>
