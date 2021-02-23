@@ -8,7 +8,7 @@
  
  <h1>GitHub Activity</h1>
  <p align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kyle8973&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle8973&layout=compact&count_private=true&theme=tokyonight" alt="Kyle8973" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kyle8973&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<br><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle8973&layout=compact&count_private=true&theme=tokyonight" alt="Kyle8973" />
 </p>
 
 <p align="center">Contact Me Via Email <a href="mailto:kyle@astrobot.org">kyle@astrobot.org</a></p>
