@@ -1,6 +1,7 @@
 <center><h1>Hey, I'm Kyle</h1></center>
 <p align="center">Hi I'm Kyle
-<br>A Regular 16 Year Old Living In The United Kingdom With Interests In Software Development, Website Development And Cyber Security
+<br>A Regular 16 Year Old Living In The United Kingdom
+<br>With Interests In Software Development, Website Development And Cyber Security
 <br>I Also Have A Discord Bot Called Lil Satan Aswell As Being The Co-Founder Of Astronomy Cloud Hosting, Both Linked Below</p>
 <h1>Current Projects</h1>
 <p align="center">
