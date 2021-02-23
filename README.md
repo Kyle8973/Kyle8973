@@ -1,4 +1,4 @@
-<center><h1>Hey, I'm Kyle</h1>
+<center><h1>Hey, I'm Kyle</h1></center>
 <p align="center">Hi I'm Kyle, A Regular 16 Year Old Living In The United Kingdom With Interests In Software Development, Website Development And Cyber Security I Also Have A Discord Bot Called Lil Satan</p>
 <h1>Current Projects</h1>
 <p align="center">
@@ -13,4 +13,3 @@
 
 <p align="center">Contact Me Via Email <a href="mailto:kyle@astrobot.org">kyle@astrobot.org</a></p>
 <p align="center">Check Out My Personal Website <a href="https://kyle.astrobot.cloud">https://kyle.astrobot.cloud</a></p>
-</center>
