@@ -1,12 +1,9 @@
-<center><h1>Hey, I'm Kyle</h1></center>
+<center><h1>Welcome:</h1></center>
 <p align="center">Hi I'm Kyle
 <br>I'm From England And I Have A Big Interest In Computing & Networking
 <br><br>Chat With Me On Discord @ Kyle#8973</p>
-<br><br>
 <h1>Current Projects</h1>
-<p align="center">
-  <p align="center"👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications - [Check It Out!](https://github.com/Kyle8973/SSH-Notifications)</p>
- </p>
+<p align="center"👨‍💻SSH-Notifications, A Discord Webhook System For SSH Login Notifictions - [Check It Out Here!](https://github.com/Kyle8973/SSH-Notifications)</p>
  
  <h1>GitHub Activity</h1>
  <p align="center">
