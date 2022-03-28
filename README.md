@@ -5,7 +5,7 @@
 <br><br>I Also Have A Discord Bot Called Lil Satan Linked Below</p>
 <h1>Current Projects</h1>
 <p align="center">
-  <p align="center"👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications <a href="https://github.com/Kyle8973/SSH-Notifications"> - Check It Out!</a></p>
+  <p align="center"👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications - [Check It Out!](https://github.com/Kyle8973/SSH-Notifications)</a></p>
  </p>
  
  <h1>GitHub Activity</h1>
