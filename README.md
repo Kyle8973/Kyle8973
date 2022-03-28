@@ -5,7 +5,7 @@
 <br><br>
 <h1>Current Projects</h1>
 <p align="center">
-  <p align="center"></a👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications - [Check It Out!](https://github.com/Kyle8973/SSH-Notifications)</a></p>
+  <p align="center"👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications - [Check It Out!](https://github.com/Kyle8973/SSH-Notifications)</p>
  </p>
  
  <h1>GitHub Activity</h1>
