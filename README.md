@@ -1,11 +1,11 @@
 <center><h1>Hey, I'm Kyle</h1></center>
 <p align="center">Hi I'm Kyle
-<br>A Regular 16 Year Old Living In The United Kingdom
-<br>With Interests In Software Development, Website Development And Cyber Security
+<br>I'm From England And I Have A Big Interest In Computing & Networking
+<br><br>Chat With Me On Discord @ Kyle#8973
 <br><br>I Also Have A Discord Bot Called Lil Satan Linked Below</p>
 <h1>Current Projects</h1>
 <p align="center">
-  <p align="center">👿Lil Satan - A Multipurpose Discord Bot Coded In JS <a href="https://discordapp.com/oauth2/authorize?&client_id=448508336774578185&scope=bot&permissions=8"> - Invite Lil Satan</a></p>
+  <p align="center"👨‍💻SSH-Notifications - A Discord Webhook System For SSH Login Notifications <a href="https://github.com/Kyle8973/SSH-Notifications"> - Check It Out!</a></p>
  </p>
  
  <h1>GitHub Activity</h1>
@@ -14,4 +14,4 @@
 </p>
 
 <p align="center">Contact Me Via Email <a href="mailto:kyle@astrobot.org">kyle@astrobot.org</a></p>
-<p align="center">Check Out My Personal Website <a href="https://kyle.astrobot.cloud">https://kyle.astrobot.cloud</a></p>
+<p align="center">Check Out My Personal Website <a href="https://kyle.astrobot.org">https://kyle.astrobot.crg</a></p>
