@@ -10,5 +10,3 @@ Chat With Me On **Discord** @ **Kyle#8973**
 <br>
 # Current Projects:
 
-👨‍💻SSH-Notifications, A Discord Webhook System For SSH Login Notifications - [Check It Out Here!](https://github.com/Kyle8973/SSH-Notifications)
-
