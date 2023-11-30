@@ -8,5 +8,4 @@
 
 Chat With Me On **Discord** @ **Kyle#8973**
 <br>
-# Current Projects:
 
