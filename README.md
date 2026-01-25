@@ -1,6 +1,6 @@
 # Hi There! 👋 I'm Kyle
 
-🎉 **Age:** 20
+🎉 **Age:** 21
 <br>
 🌍 **Location:** England
 <br>
